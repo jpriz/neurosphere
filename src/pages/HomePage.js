@@ -2,7 +2,7 @@
 import homeimg from "../mockup/home.png";
 
 
-const Home = () => {
+const HomePage = () => {
     return (
         <div>
             {/* <h1>Home</h1>; */}
@@ -11,5 +11,5 @@ const Home = () => {
     )
   };
   
-  export default Home;
+  export default HomePage;
   

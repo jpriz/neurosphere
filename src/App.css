@@ -52,3 +52,8 @@
   /* width: 48px; */
   margin:24px;
 }
+
+.map{
+  height: 100%;
+  width: 100%;
+}

@@ -1,6 +1,6 @@
 import { Outlet, Link } from "react-router-dom";
 import logo from "../logo/logo-intero.png"
-const Layout = () => {
+const LayoutPage = () => {
   return (
     <>
       <div class="app">
@@ -27,4 +27,4 @@ const Layout = () => {
     </>
   )
 };
-export default Layout;
+export default LayoutPage;
